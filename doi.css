@@ -1,0 +1,35 @@
+body{
+  background-color: #d6b47e;
+  font-family: Times, Georgia, serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: medium;
+  letter-spacing: 0.8em;
+}
+
+h2 {
+  font-variant: small-caps;
+  letter-spacing: 0.4em;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+strong {
+  text-transform: uppercase;
+  font-weight: inherit;
+}
+
+.signer{
+  font-style: italic;
+  text-align: center;
+}
+
+ul li.abuse {
+  list-style: none;
+  text-indent: 1em;
+}
