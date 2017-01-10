@@ -1,6 +1,8 @@
 body{
   background-color: #d6b47e;
   font-family: Times, Georgia, serif;
+  margin: 4vw;
+  font-size: 50%;
 }
 
 h1 {
@@ -29,7 +31,58 @@ strong {
   text-align: center;
 }
 
+td {
+  font-size: 50%;
+}
+
 ul li.abuse {
   list-style: none;
   text-indent: 1em;
+}
+
+ul li.buse {
+  list-style: none;
+  text-indent: 1em;
+}
+
+#dec{
+  letter-spacing: 1.0em;
+  font-size: 38px;
+  text-align: center;
+}
+
+#firstParagraph:first-letter{
+  font-size: 32px;
+  float: left;
+}
+
+p{
+  text-align: justify;
+}
+
+#firstCol{
+  float: left;
+  width: 48%;
+}
+
+#secondCol{
+  float:right;
+  width: 48%;
+}
+
+li{
+  text-align: justify;
+}
+
+tr{
+  display: inline-block;
+  width:25%;
+}
+
+#o {
+  text-indent: 50px;
+}
+
+#sign-off {
+  margin-left: 60vw;
 }
